@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+  color: blue;
+}
+
+a {
+  color: gray;
+}
+
+a:hover{
+  color: blue;
+}
+
+input{
+ color: blue;
+}
+
+.button{
+  background-color: lightgrey;
+  border-radius: 5px;
+}
